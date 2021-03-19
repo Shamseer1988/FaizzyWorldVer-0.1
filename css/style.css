@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+#scrollaway{
+    width:640px;
+    height:1200px;
+    background-color:hsl(199, 98%, 48%);
+  }
+.cardBox {
+    background-color: transparent;
+    background-image: linear-gradient(to bottom, rgba(102, 4, 4, 0.9) 0%, rgba(8, 8, 8) 100%);
+    background-repeat: repeat;
+    border-radius:10px;
+    padding: 10px;
+
+}
+   
+.bg_color{
+    background-image: url(../img/Bg-Image.jpg); 
+    background-position: center;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+   
+   
+   
+  
+}
+
+.modal-content{
+    background-color: transparent;
+    background-image: linear-gradient(to bottom, rgba(102, 4, 4, 0.9) 0%, rgba(8, 8, 8) 100%);
+    background-repeat: repeat;
+    border-radius:20px;
+    padding: 2px;
+    
+
+}
+
+
+
+.card_hight{
+    margin-top: 8rem;
+}
+
+.featured_video{
+    color: white;
+    font-style: initial;
+    letter-spacing: 5px;
+    font-family: cursive;
+}
+
+.line {
+    display: block;
+    width: 180px;
+    height: 3px;
+    background-image: linear-gradient(to bottom, rgba(102, 4, 4, 0.9) 0%, rgba(8, 8, 8) 100%);
+    margin: 20px auto;
+    
+}
+   
+.bg-dark{
+    background-image: linear-gradient(to bottom, rgba(102, 4, 4, 0.9) 0%, rgba(8, 8, 8) 100%);
+    
+    
+}
+
+.align_test{
+    margin: 0px 10px 0px 10px ;
+}
+
+
+.scroll-top {
+    text-align: right;
+}
+.scroll-top a {
+    background-color: #129CF3;
+    padding: 25px;
+}
+.scroll-top a i {
+    color: #fff;
+    font-size: 25px;
+}
+
