@@ -1,4 +1,4 @@
-# FaizzyWorldVer-0.1
+# FaizzyWorld Ver-0.1
 Faizzy World Ver 0.1 After fixing Responsive.css,Mouse hover play 
 
 This version included 
