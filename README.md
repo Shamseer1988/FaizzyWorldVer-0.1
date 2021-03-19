@@ -14,3 +14,6 @@ This version included
 
 New update will be soon
 
+# FaizzyWorld Ver-0.2
+
+1. Comming Soon
