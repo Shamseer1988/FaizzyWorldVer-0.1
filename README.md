@@ -12,6 +12,9 @@ This version included
 8. Gardiant liner 
 9. Youtube iframe customization
 
+For SeeMy Works
+www.shamseer.tech
+
 New update will be soon
 
 # FaizzyWorld Ver-0.2
