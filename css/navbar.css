@@ -1,0 +1,61 @@
+*{
+     text-align: center;
+}
+
+/* Navbar With Mega DropDown with customization */
+
+/* breakpoint and up - mega dropdown styles */
+@media all and (min-width: 992px) {
+	
+	.navbar .dropdown{position:static!important;}
+	.navbar .dropdown-menu{
+     left:5%; 
+     right:5%;
+     width:90%; 
+     padding:20px; 
+     background-image: linear-gradient(to bottom, rgba(31, 30, 30, 0.9) 50%, rgb(255, 255, 255) 100%);
+     border-radius: 25px;
+     }
+     .navbar .nav-item .dropdown-menu{  display:block; opacity: 0;  visibility: hidden; transition:.8s; margin-top:0;  }
+     .navbar .dropdown-menu.fade-down{ top:80%; transform: rotateX(-75deg); transform-origin: 0% 0%; }
+     .navbar .dropdown-menu.fade-up{ top:180%;  }
+     .navbar .nav-item:hover .dropdown-menu{ transition: .8s; opacity:1; visibility:visible; top:100%; transform: rotateX(0deg); }   
+     }
+
+     .navbar{
+      background-image: linear-gradient(to bottom, rgba(102, 4, 4, 0.9) 0%, rgba(8, 8, 8) 100%);       
+      }
+
+    /* change the link color */
+    .navbar .navbar-nav .nav-link {
+    color: white;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    }
+
+    /* change the color of active or hovered links */
+    .navbar .nav-item.active .nav-link,
+    .navbar .nav-item:hover .nav-link {
+    background-color:green ;
+    opacity: 0.7;
+    border-radius: 8px;
+    transition: ease .8s;
+    }
+/* END Navbar With Mega DropDown with customization */
+
+
+.border_right{
+     border-right: 1px solid rgb(255, 255, 255);
+ 
+}
+
+.title_menu{
+     color: white;
+     text-transform: uppercase;
+     font-weight: bolder;
+     text-align: center;
+     
+     
+
+}
+
