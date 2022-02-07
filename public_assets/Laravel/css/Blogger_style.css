@@ -85,9 +85,13 @@
 
     }
 
-    .my_face{
-        color: #00FFFF;
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575px) {
+    .hide {
+        display: none;
     }
+
+ }
 
     /*---xxx-----YT--Responsive-css---xxxx----*/
 
