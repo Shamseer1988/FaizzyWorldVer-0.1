@@ -1,0 +1,63 @@
+    @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400&family=Quintessential&family=Roboto:wght@100;300;400&family=Work+Sans&display=swap');
+
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Exo 2', sans-serif;
+    }
+
+    .wrapper {
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .wrapper h1 {
+        font-family: 'Roboto', sans-serif;
+        font-size: 20px;
+        color: rgb(20, 20, 20);
+        margin-bottom: 25px;
+    }
+
+    .wrapper h3 {
+        font-family: 'Hind Siliguri', sans-serif;
+        font-size: 20px;
+        color: rgb(20, 20, 20);
+        margin-bottom: 25px;
+        font-weight: bold;
+    }
+
+    .main_content {
+        width: auto;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .main_content .sub_content {
+        width: 100%;
+        background: #00FFFF;
+        padding: 20px 10px;
+        border-radius: 5px;
+    }
+
+    .main_content .sub_content p {
+        margin-top: 5px;
+        font-size: 16px;
+        font-family: 'Work Sans', sans-serif;
+    }
+
+    .code-badge-copy-icon {
+        font-size: 1.3em !important;
+    }
+
+    .line {
+        width: 85%;
+        height: 0;
+        border: 1px solid rgb(255, 45, 32);
+        margin: 3px;
+        display: inline-block;
+    }
+    .line-h {
+    line-height: 1px;
+    }
