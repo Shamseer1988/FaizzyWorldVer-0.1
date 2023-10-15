@@ -6,7 +6,12 @@
         box-sizing: border-box;
         font-family: 'Exo 2', sans-serif;
     }
-
+   .btn-xl {
+       padding: 10px 20px;
+       font-size: 20px;
+       border-radius: 10px;
+       width:50%;    //Specify your width here
+   }
     .wrapper {
         margin-top: 10px;
         text-align: center;
