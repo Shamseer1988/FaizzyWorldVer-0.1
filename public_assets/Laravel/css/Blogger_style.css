@@ -13,34 +13,7 @@
 }
 
 
-   .btn-xl {
-       padding: 10px 20px;
-       font-size: 20px;
-       border-radius: 10px;
-       width:50%;    //Specify your width here
-   }
-    .wrapper {
-        margin-top: 10px;
-        text-align: center;
-    }
-
-    .wrapper h1 {
-        font-family: 'Roboto', sans-serif;
-        font-size: 25px;
-        color: rgb(20, 20, 20);
-        margin-bottom: 25px;
-    }
-
-    .wrapper h3 {
-        font-family: 'Hind Siliguri', sans-serif;
-        font-size: 20px;
-        color: rgb(20, 20, 20);
-        margin-bottom: 25px;
-        font-weight: bold;
-    }
-    .wrapper code{
-        font-size: 1rem;
-    }
+   
 
     .main_content {
         width: auto;
